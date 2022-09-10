@@ -2,9 +2,16 @@ html {
     background: black;
 }
 
+.contenedor {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: wheat;
+}
 
-div{
-    display: block;
-    position: fixed;
-    height: 2000px;
+
+
+img{
+    max-width: 100%;
 }
